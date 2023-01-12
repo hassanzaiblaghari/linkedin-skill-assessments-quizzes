@@ -67,7 +67,7 @@
 
 #### Q10. How can you render a file in the background and keep working in After Effects?
 
-- [ ] Click File > Export > Add to Adobe Media Encoder Queue.
+- [x] Click File > Export > Add to Adobe Media Encoder Queue.
 - [ ] Click File > Watch Folders.
 - [ ] Click File > Export > Background Render.
 - [ ] Click File > Export > Add to Render Queue.
@@ -117,7 +117,7 @@
 
 #### Q17. You want to scale all elements in a composition, including the composition itself. How can you do this?
 
-- [ ] Click File > Scripts > Double-Up.jsx.
+- [x] Click File > Scripts > Double-Up.jsx.
 - [ ] Link all layers and then change the composition settings.
 - [ ] Click File > Scripts > Scale Composition.jsx.
 - [ ] In the Composition Settings dialog box, scale the composition dimensions and the layers will scale to match.
